@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidNameException
+comment1.params=str
+comment1.target=InvalidNameException(java.lang.String)
+numComments=2

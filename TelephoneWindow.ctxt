@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TelephoneWindow
+comment1.params=
+comment1.target=TelephoneWindow()
+comment2.params=
+comment2.target=void\ launch()
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ toogleRadio()
+comment6.params=str\ type
+comment6.target=void\ validate(java.lang.String,\ Type)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
